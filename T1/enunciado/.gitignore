@@ -1,0 +1,8 @@
+# Configurações do Visual Studio e VS Code
+.vscode/
+.vs/
+
+# Artefatos de build
+*.o
+main
+read_file
